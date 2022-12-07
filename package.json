@@ -1,0 +1,16 @@
+{
+  "name": "mongodbcars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
